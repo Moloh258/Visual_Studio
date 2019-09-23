@@ -17,6 +17,7 @@ namespace _5
             b = float.Parse(Console.ReadLine());
             a = Math.Abs(a);
             b = Math.Abs(b);
+            sum 
             sub1 = a - b;
             sub2 = b - a;
             pro = a * b;
